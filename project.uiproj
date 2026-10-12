@@ -1,0 +1,6 @@
+{
+  "Name": "UiPathHTTPRequests",
+  "ProjectType": "Process",
+  "Description": "",
+  "MainFile": "Main.xaml"
+}
